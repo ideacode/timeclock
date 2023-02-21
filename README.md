@@ -44,12 +44,12 @@ Usage
 
 Ideal usage of the tool
 
-> tc aeres filter-search working on result format
-> tc shepherdsloft maintenance shepherdsloft-01 free drive space
+> tc projectA activity working on result format
+> tc projectB maintenance server free drive space
 > tcdone
 > tctotal
-> tctotal aeres
-> tctotal shepherdsloft
+> tctotal projectA
+> tctotal projectB
 > tctotal -w
 > tctotal -r 2021/01/01,2021/02/01
 
